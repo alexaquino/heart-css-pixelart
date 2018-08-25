@@ -1,0 +1,122 @@
+body {
+    background-color: #FFCCBC;
+}
+
+.pixel-block {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 12em;
+    height: 11em;
+}
+
+.pixelized--heart {
+    display: block;
+    width: 1em;
+    height: 1em;
+    box-shadow: 
+        2em  0em #303841,
+        3em  0em #303841,
+        4em  0em #303841,
+        8em  0em #303841,
+        9em  0em #303841,
+        10em 0em #303841,
+
+        1em  1em #303841,
+        2em  1em #FF2E63,
+        3em  1em #FF2E63,
+        4em  1em #FF2E63,
+        5em  1em #303841,
+        7em  1em #303841,
+        8em  1em #FF2E63,
+        9em  1em #FF2E63,
+        10em 1em #FF2E63,
+        11em 1em #303841,
+
+        0em  2em #303841,
+        1em  2em #FF2E63,
+        2em  2em #FFFFFF,
+        3em  2em #FFFFFF,
+        4em  2em #FF2E63,
+        5em  2em #FF2E63,
+        6em  2em #303841,
+        7em  2em #FF2E63,
+        8em  2em #FF2E63,
+        9em  2em #FF2E63,
+        10em 2em #FF2E63,
+        11em 2em #FF2E63,
+        12em 2em #303841,
+
+        0em  3em #303841,
+        1em  3em #FF2E63,
+        2em  3em #FFFFFF,
+        3em  3em #FF2E63,
+        4em  3em #FF2E63,
+        5em  3em #FF2E63,
+        6em  3em #FF2E63,
+        7em  3em #FF2E63,
+        8em  3em #FF2E63,
+        9em  3em #FF2E63,
+        10em 3em #FF2E63,
+        11em 3em #FF2E63,
+        12em 3em #303841,
+        
+        0em  4em #303841,
+        1em  4em #FF2E63,
+        2em  4em #FF2E63,
+        3em  4em #FF2E63,
+        4em  4em #FF2E63,
+        5em  4em #FF2E63,
+        6em  4em #FF2E63,
+        7em  4em #FF2E63,
+        8em  4em #FF2E63,
+        9em  4em #FF2E63,
+        10em 4em #FF2E63,
+        11em 4em #FF2E63,
+        12em 4em #303841,
+
+        1em  5em #303841,
+        2em  5em #FF2E63,
+        3em  5em #FF2E63,
+        4em  5em #FF2E63,
+        5em  5em #FF2E63,
+        6em  5em #FF2E63,
+        7em  5em #FF2E63,
+        8em  5em #FF2E63,
+        9em  5em #FF2E63,
+        10em 5em #FF2E63,
+        11em 5em #303841,
+
+        2em  6em #303841,
+        3em  6em #FF2E63,
+        4em  6em #FF2E63,
+        5em  6em #FF2E63,
+        6em  6em #FF2E63,
+        7em  6em #FF2E63,
+        8em  6em #FF2E63,
+        9em  6em #FF2E63,
+        10em 6em #303841,
+
+        3em  7em #303841,
+        4em  7em #FF2E63,
+        5em  7em #FF2E63,
+        6em  7em #FF2E63,
+        7em  7em #FF2E63,
+        8em  7em #FF2E63,
+        9em  7em #303841,
+     
+        4em  8em #303841,
+        5em  8em #FF2E63,
+        6em  8em #FF2E63,
+        7em  8em #FF2E63,
+        8em  8em #303841,
+
+        5em  9em #303841,
+        6em  9em #FF2E63,
+        7em  9em #303841,
+
+        6em 10em #303841;
+
+
+}
